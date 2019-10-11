@@ -1,4 +1,4 @@
-# basketball-insights
+# Basketball Insights
 
 
 ## Table of contents
@@ -12,7 +12,7 @@ A python project where I have plotted graphs and gained insights through explora
 ## Technologies
 Project is created with: Python
 
-Libraries used: numpy
+Libraries used: numpy.
 	
 ## Setup
-To run this project, install it locally and open in Jupyter Notebok:
+To run this project, install it locally and open in Jupyter Notebok.

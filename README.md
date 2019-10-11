@@ -11,6 +11,7 @@ A python project where I have plotted graphs and gained insights through explora
 	
 ## Technologies
 Project is created with: Python
+
 Libraries used: numpy
 	
 ## Setup
